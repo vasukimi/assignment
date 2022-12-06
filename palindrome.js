@@ -7,7 +7,7 @@ for (let i=str.length-1;i>=0;i--){
 }
 
 if(str==emptystr){
-console.log("Yes Palindrome");
+console.log("Palindrome");
 }
 
 else{
